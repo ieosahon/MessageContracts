@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ieosahon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+392f277c2dae80b334af66367d7a673f5fd87819")]
 [assembly: System.Reflection.AssemblyProductAttribute("MessageContracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MessageContracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0")]
