@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MessageContracts</id>
+    <version>1.0.0</version>
+    <authors>Osahon Ighodaro</authors>
+    <description>This is for managing contrats for Mass Transit projects</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\LENOVO\Downloads\Aug-2024\Learning-Aug\MessageContracts\bin\Debug\net8.0\MessageContracts.dll" target="lib\net8.0\MessageContracts.dll" />
+  </files>
+</package>

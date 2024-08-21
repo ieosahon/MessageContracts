@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Osahon Ighodaro",
+  "classifications": ["Shared Library"],
+  "identity": "MessageContracts.Template",
+  "name": "MessageContracts Template",
+  "shortName": "msgcontracts",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "MessageContracts",
+  "preferNameDirectory": true,
+  "symbols": {
+    "ProjectName": {
+      "type": "generated",
+      "generator": "safe_project_name",
+      "replaces": "MessageContracts"
+    }
+  }
+}
